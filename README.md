@@ -1,4 +1,4 @@
-# Motion Detection System
+# Motion Detection 
 A simple real-time **Motion Detection System** built using Python, OpenCV, and Pandas.
 This project uses a webcam to detect movement by comparing video frames. When movement is detected, the program highlights the moving object with a green rectangle and records the start and end time of the movement.
 
